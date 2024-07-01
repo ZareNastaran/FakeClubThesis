@@ -1,4 +1,3 @@
 # Fakeclub
-Here is my Fake Review Detection project
-I am trying to develop a platform in which you can use your own input(reviews) and see which one is fake or real.
-Just uploaded the first version as InputSentenceOutputFakeOrReal
+Here is the source code of my thesis titled: "FAKE CLUB: Unlocking the Graph Structure of Yelp Reviews for Fake Review Detection"
+I have mainly used Yelp public dataset you can find on: https://www.yelp.com/dataset 
